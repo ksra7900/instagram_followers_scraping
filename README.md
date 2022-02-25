@@ -1,3 +1,5 @@
+
+# instagram_followers_scraping
 1-Install the Python packages in the 'requirements.txt' file 
 
 2-Download your browser's driver 
@@ -12,4 +14,3 @@
 5-Wait for the followers to be extracted 
 
 6-At the end you can see all followers username in 'followers.csv' file
-# instagram_followers_scraping
